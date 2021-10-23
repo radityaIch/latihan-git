@@ -6,11 +6,7 @@ import HelloWorld from "./components/HelloWorld.vue";
 
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
-<<<<<<< HEAD
-  <HelloWorld msg="Hello Vue 3 + Vite 一之宮盛" />
-=======
   <HelloWorld msg="Hello Vue 3 + Vite DIPADANA MANTAP BRO" />
->>>>>>> cd7cbf27d4fcb132917711d7c8c3ec47890af35c
 </template>
 
 <style>
